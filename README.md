@@ -1,1 +1,1 @@
-# Design-and-analysis-of-algorithm-geu
+# Design-and-Analysis-of-Algorithm-GEU
